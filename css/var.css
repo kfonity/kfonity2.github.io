@@ -1,0 +1,35 @@
+:root {
+    --skill: #E8E9ED;
+    --h: #55577D;
+    --p: #6B7C93;
+}
+
+
+
+
+
+.display-ib {
+    display: inline-block;
+}
+
+.va-top {
+    vertical-align: top;
+}
+
+.center {
+    text-align: center;
+}
+
+.pos-rel {
+    background: #fff;
+    position: relative;
+    z-index: 2;
+}
+
+.top50 {
+    top: 50px;
+}
+
+.left200 {
+    left: 200px;
+}

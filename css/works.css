@@ -1,0 +1,70 @@
+.row > .works {
+    padding: 20px 10px;
+    height: 300px;
+}
+
+.pre {
+    width: 210px;
+    height: 210px;
+    background-color: white;
+}
+
+.i1 {
+    background-size: contain;
+    background-image: url(../img/works/01.jpg);
+    background-repeat: no-repeat;
+}
+
+.i2 {
+    background-size: contain;
+    background-image: url(../img/works/02.jpg);
+    background-repeat: no-repeat;
+}
+
+.i3 {
+    background-size: contain;
+    background-image: url(../img/works/03.jpg);
+    background-repeat: no-repeat;
+}
+
+.i4 {
+    background-size: contain;
+    background-image: url(../img/works/04.jpg);
+    background-repeat: no-repeat;
+}
+
+.i5 {
+    background-size: contain;
+    background-image: url(../img/works/05.jpg);
+    background-repeat: no-repeat;
+}
+
+.i6 {
+    background-size: contain;
+    background-image: url(../img/works/06.jpg);
+    background-repeat: no-repeat;
+}
+
+.i7 {
+    background-size: contain;
+    background-image: url(../img/works/07.jpg);
+    background-repeat: no-repeat;
+}
+
+.i8 {
+    background-size: contain;
+    background-image: url(../img/works/08.jpg);
+    background-repeat: no-repeat;
+}
+
+.i9 {
+    background-size: contain;
+    background-image: url(../img/works/09.jpg);
+    background-repeat: no-repeat;
+}
+
+.i10 {
+    background-size: contain;
+    background-image: url(../img/works/010.jpg);
+    background-repeat: no-repeat;
+}
